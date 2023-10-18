@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EA7E9A292AD084450032B42C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA7E9A282AD084450032B42C /* Main.storyboard */; };
 		EAB1FDB72ABA7CAE00D03D22 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = EAB1FDB52ABA7CAE00D03D22 /* README.md */; };
 		EAB1FDB82ABA7CAE00D03D22 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = EAB1FDB62ABA7CAE00D03D22 /* LICENSE */; };
 		EAF1D2E72AB92E1300B9B130 /* SetSweatApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF1D2E62AB92E1300B9B130 /* SetSweatApp.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EA7E9A282AD084450032B42C /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		EAB1FDB52ABA7CAE00D03D22 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		EAB1FDB62ABA7CAE00D03D22 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		EAF1D2E32AB92E1300B9B130 /* SetSweat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SetSweat.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -75,9 +77,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EAAD91CF2AD852AE0001A44F /* Storyboard Files */ = {
+			isa = PBXGroup;
+			children = (
+				EA7E9A282AD084450032B42C /* Main.storyboard */,
+			);
+			name = "Storyboard Files";
+			sourceTree = "<group>";
+		};
 		EAF1D2DA2AB92E1300B9B130 = {
 			isa = PBXGroup;
 			children = (
+				EAAD91CF2AD852AE0001A44F /* Storyboard Files */,
 				EAB1FDB62ABA7CAE00D03D22 /* LICENSE */,
 				EAB1FDB52ABA7CAE00D03D22 /* README.md */,
 				EAF1D2E52AB92E1300B9B130 /* SetSweat */,
@@ -238,6 +249,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EAB1FDB72ABA7CAE00D03D22 /* README.md in Resources */,
+				EA7E9A292AD084450032B42C /* Main.storyboard in Resources */,
 				EAF1D2EE2AB92E1400B9B130 /* Preview Assets.xcassets in Resources */,
 				EAB1FDB82ABA7CAE00D03D22 /* LICENSE in Resources */,
 				EAF1D2EB2AB92E1400B9B130 /* Assets.xcassets in Resources */,
