@@ -8,6 +8,6 @@ git
 ## test
 testing
 
-## testing
-2
+## image
+![Screenshot](https://github.com/krystal109/SetSweat/blob/main/Images/Screenshot%202023-10-18%20at%2010.38.19%20AM.png)
 
