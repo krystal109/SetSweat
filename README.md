@@ -2,7 +2,7 @@
 Introducing Set Sweat, the iOS app designed to transform your approach to fitness. Say goodbye to rigid, one-size-fits-all workout plans and say hello to complete customization. Built with Swift, Set Sweat allows you to create tailor-made workouts with the flexibility to name your sets and specify their lengths–all 100% free and encapsulated in an incredibly simple user interface. This is not just about breaking a sweat; it's about making each drop count, your way.
 
 ## Key Features
-**Completely Free:**
+**Completely Free:** <br />
     Enjoy all the powerful features of Set Sweat without any hidden costs or in-app purchases. Your fitness journey shouldn't come with a price tag.
 
 **Intuitive User Interface:**
