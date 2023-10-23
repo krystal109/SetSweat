@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		EA7E9A292AD084450032B42C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA7E9A282AD084450032B42C /* Main.storyboard */; };
 		EAAD91D52AE033910001A44F /* Images in Resources */ = {isa = PBXBuildFile; fileRef = EAAD91D42AE033900001A44F /* Images */; };
+		EAAD91D72AE6E75C0001A44F /* CreateWorkoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAAD91D62AE6E75C0001A44F /* CreateWorkoutView.swift */; };
 		EAB1FDB72ABA7CAE00D03D22 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = EAB1FDB52ABA7CAE00D03D22 /* README.md */; };
 		EAB1FDB82ABA7CAE00D03D22 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = EAB1FDB62ABA7CAE00D03D22 /* LICENSE */; };
 		EAF1D2E72AB92E1300B9B130 /* SetSweatApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAF1D2E62AB92E1300B9B130 /* SetSweatApp.swift */; };
@@ -40,6 +41,7 @@
 /* Begin PBXFileReference section */
 		EA7E9A282AD084450032B42C /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		EAAD91D42AE033900001A44F /* Images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Images; sourceTree = "<group>"; };
+		EAAD91D62AE6E75C0001A44F /* CreateWorkoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateWorkoutView.swift; sourceTree = "<group>"; };
 		EAB1FDB52ABA7CAE00D03D22 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		EAB1FDB62ABA7CAE00D03D22 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		EAF1D2E32AB92E1300B9B130 /* SetSweat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SetSweat.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -90,6 +92,7 @@
 		EAF1D2DA2AB92E1300B9B130 = {
 			isa = PBXGroup;
 			children = (
+				EAAD91D62AE6E75C0001A44F /* CreateWorkoutView.swift */,
 				EAAD91D42AE033900001A44F /* Images */,
 				EAAD91CF2AD852AE0001A44F /* Storyboard Files */,
 				EAB1FDB62ABA7CAE00D03D22 /* LICENSE */,
@@ -281,6 +284,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAAD91D72AE6E75C0001A44F /* CreateWorkoutView.swift in Sources */,
 				EAF1D2E92AB92E1300B9B130 /* ContentView.swift in Sources */,
 				EAF1D2E72AB92E1300B9B130 /* SetSweatApp.swift in Sources */,
 			);
